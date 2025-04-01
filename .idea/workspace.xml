@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1dbc961-c14a-4c04-9720-61c68cb4c051" name="Changes" comment="inital commit" />
+    <list default="true" id="c1dbc961-c14a-4c04-9720-61c68cb4c051" name="Changes" comment="inital commit">
+      <change afterPath="$PROJECT_DIR$/sql/querries.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
